@@ -1,0 +1,6 @@
+{
+  "name": "Gjergj Kastrioti Skënderbeu",
+  "description": "Kronika interaktive historike e jetës, betejave, kinemasë Video AI, diplomacisë, glosarit të termave me flluska informacioni dhe trashëgimisë së Gjergj Kastriotit Skënderbeut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
